@@ -11,3 +11,10 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 
 
 ## Creating your very own first migration 2015 - Sokratis
+
+
+Worked completed so far
+
+1. 07-Starting Migrations-xampp
+
+
